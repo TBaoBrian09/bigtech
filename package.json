@@ -36,7 +36,7 @@
     "lottie-react-native": "^5.0.1",
     "moment": "^2.29.1",
     "react": "17.0.2",
-    "react-native": "0.67.3",
+    "react-native": "0.67.5",
     "react-native-calendars": "^1.1279.0",
     "react-native-code-push": "^7.0.4",
     "react-native-device-info": "^8.5.0",
