@@ -1,0 +1,8 @@
+app_identifier("com.bigtechglobal.btg") # The bundle identifier of your app
+apple_id("jinx.dev.19xx@gmail.com") # Your Apple email address
+
+itc_team_id("124902468") # App Store Connect Team ID
+team_id("ANUJ8BSYPB") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

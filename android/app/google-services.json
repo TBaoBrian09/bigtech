@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "695821507692",
+    "project_id": "jinx-dev",
+    "storage_bucket": "jinx-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695821507692:android:007c22c69c4bc7e9b94c49",
+        "android_client_info": {
+          "package_name": "com.bigtechglobal.btg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695821507692-5o649t3uhsqfo8gqj84pt4l97rq9m1df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigtechglobal.btg",
+            "certificate_hash": "d2cfc1361a3ac77deec2ca70b119e0b2dd8c8bf4"
+          }
+        },
+        {
+          "client_id": "695821507692-9aegc0bd0glqh1ki9fgrvude1pjgvvoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3u0uX5FQrU7w1W_TUHYSkOAVVhpAdOyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695821507692-9aegc0bd0glqh1ki9fgrvude1pjgvvoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "695821507692-70lkj5cnjop8gvj7l0h27jchgn2jrap1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bigtechglobal.btg",
+                "app_store_id": "1620707014"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
